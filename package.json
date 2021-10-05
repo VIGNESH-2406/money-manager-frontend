@@ -39,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "https://money-manager-backend2.herokuapp.com"
+  }
 }

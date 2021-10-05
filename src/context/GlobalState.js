@@ -1,6 +1,6 @@
 import React, { createContext, useReducer } from "react";
 import AppReducer from "./AppReducer";
-import axios from "axios";
+import axios from "../utils/Axios";
 const InitialState = {
   transactions: [],
   error: null,
